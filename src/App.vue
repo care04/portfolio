@@ -1,9 +1,13 @@
 <template>
   <div id="nav">
+    <h1>Artistic.Keys Portfolio</h1>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
   <router-view />
+  <footer>
+    <button class="contact-button">Contact</button>
+  </footer>
 </template>
 
 <style>
@@ -26,5 +30,9 @@
 
 #nav a.router-link-exact-active {
   color: #42b983;
+}
+.contact-button {
+  margin-top:50px;
+  font-size: 25px;
 }
 </style>
