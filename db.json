@@ -3,7 +3,7 @@
     {
       "name": "Books",
       "id": "",
-      "shopCategories": 
+      "shopCategories": ""
       [
         {
           "name": "",
@@ -13,9 +13,9 @@
       ]
     },
     {
-      "name": "Music"
-      "id": ""
-      "shopCategories": 
+      "name": "Music",
+      "id": "",
+      "shopCategories": ""
       [
         {
           "name": "",
@@ -25,9 +25,9 @@
       ]
     },
     {
-      "name": "Art"
-      "id": ""
-      "shopCategories": 
+      "name": "Art",
+      "id": "",
+      "shopCategories": ""
       [
         {
           "name": "",
