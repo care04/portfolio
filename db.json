@@ -3,8 +3,7 @@
     {
       "name": "Books",
       "id": "",
-      "shopCategories": ""
-      [
+      "shopCategories": [
         {
           "name": "",
           "image": "",
@@ -15,20 +14,18 @@
     {
       "name": "Music",
       "id": "",
-      "shopCategories": ""
-      [
+      "shopCategories": [
         {
           "name": "",
           "image": "",
           "shortDescription": ""
-        } 
+        }
       ]
     },
     {
       "name": "Art",
       "id": "",
-      "shopCategories": ""
-      [
+      "shopCategories": [
         {
           "name": "",
           "image": "",
