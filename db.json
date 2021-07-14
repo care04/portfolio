@@ -10,28 +10,6 @@
           "shortDescription": ""
         } 
       ]
-    },
-    {
-      "name": "Music",
-      "id": "",
-      "shopCategories": [
-        {
-          "name": "",
-          "image": "",
-          "shortDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "Art",
-      "id": "",
-      "shopCategories": [
-        {
-          "name": "",
-          "image": "",
-          "shortDescription": ""
-        } 
-      ]
     }
   ]
 }
