@@ -4,7 +4,15 @@
        "name": "Books",
        "id": "book123",
        "shopCategories": [
-        
+          {
+             "name": "Cork"
+          },
+          {
+             "name": "Leather
+          },
+          {
+             "name": "Custom Design"
+          }
       ]
      },
      {
