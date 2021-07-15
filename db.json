@@ -5,41 +5,7 @@
        "id": "",
        "id": "book123",
        "shopCategories": [
-        {
-          "name": "Leather Books",
-          "products": [
-            {
-            "name": "Brown Leather",
-            "image": "",
-            "shortDescription": "This is a brown Leather Book"
-            },
-            {
-            "name": "Red Leather",
-            "image": "",
-            "shortDescription": "This is a red Leather Book"
-            }
-          ]
-        },
-        {
-          "name": "Faberic Cover",
-          "products": [
-            {
-            "name": "Faberic Printed On",
-            "image": "",
-            "shortDescription": "Books Made From Faberic with factory designed"
-            },
-            {
-            "name": "Faberic Hand Designed",
-            "image": "",
-            "shortDescription": "Books with self designed covers"
-            },
-            {
-              "name": "Plain Covers",
-              "image": "",
-              "shortDescription": "books with covers such as jean ect."
-            }
-          ]
-        }
+        
       ]
      },
      {
