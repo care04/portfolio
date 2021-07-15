@@ -130,6 +130,11 @@
     }
   ],
   "shopCategories": [
+    
+  ]
+}
+{
+  "shopCategories": [
       { 
         "shopId": "book123",
         "id": "cork123",
