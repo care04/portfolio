@@ -6,7 +6,23 @@
       "shopCategories": [
         {
           "name": "Cork Books",
-          "products": [{}]
+          "products": [
+            {
+            "name": "brown cork",
+            "image": "",
+            "shortDescription": "This is a brown Cork Book"
+            },
+            {
+            "name": "red cork",
+            "image": "",
+            "shortDescription": "This is a red Cork Book"
+            },
+            {
+            "name": "green cork",
+            "image": "",
+            "shortDescription": "This is a green Cork Book"
+            }
+          ]
         },
         {
           "name": "Leather Book",
