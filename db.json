@@ -41,8 +41,23 @@
         },
         {
           "name": "Faberic Cover",
-          "image": "",
-          "shortDescription": "This is a handmade book with a faberic cover"
+          "products": [
+            {
+            "name": "Faberic Printed On",
+            "image": "",
+            "shortDescription": "Books Made From Faberic with factory designed"
+            },
+            {
+            "name": "Faberic Hand Designed",
+            "image": "",
+            "shortDescription": "Books with self designed covers"
+            },
+            {
+              "name": "Plain Covers",
+              "image": "",
+              "shortDescription": "books with covers such as jean ect."
+            }
+          ]
         }
       ]
     },
