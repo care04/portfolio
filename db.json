@@ -101,17 +101,7 @@
       "name": "Music",
       "id": "",
       "shopCategories": [
-        {
-          "name": "Listen",
-          "products": [
-            
-          ]
-        },
-        {
-          "name": "Books",
-          "products": [
-          ]
-        }
+        
       ]
     }
   ]
