@@ -102,19 +102,29 @@
       "id": "",
       "shopCategories": [
         {
-          "name": "Classicals",
-          "image": "",
-          "shortDescription": "recording of classical songs on a cd"
+          "name": "Listen",
+          "products": [
+            {
+              "name": "Classicals",
+              "image": "",
+              "shortDescription": "recording of classical songs on a cd"
+            },
+          ]
         },
         {
-          "name": "Original Pieces",
-          "image": "",
-          "shortDescription": "Sheet Music For some of my originals"
-        },
-        {
-          "name": "Triple T",
-          "image": "",
-          "shortDescription": "Tips Tricks andn Theory Book"
+          "name": "Books",
+          "products": [
+            {
+              "name": "Original Pieces",
+              "image": "",
+              "shortDescription": "Sheet Music For some of my originals"
+            },
+            {
+              "name": "Triple T",
+              "image": "",
+              "shortDescription": "Tips Tricks andn Theory Book"
+            }
+          ]
         }
       ]
     }
