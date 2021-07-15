@@ -2,7 +2,7 @@
   "shops": [
     {
       "name": "Books",
-      "id": "",
+      "id": "book123",
       "shopCategories": [
         {
           "name": "Cork Books",
@@ -63,7 +63,7 @@
     },
     {
       "name": "Art",
-      "id": "",
+      "id": "art456",
       "shopCategories": [
         {
           "name": "Paintings",
@@ -99,7 +99,7 @@
     },
     {
       "name": "Music",
-      "id": "",
+      "id": "music789",
       "shopCategories": [
         {
           "name": "Listen",
