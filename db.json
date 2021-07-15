@@ -1,22 +1,44 @@
 {
-  "shops": [
-    {
-      "name": "Books",
-      "id": "book123",
-      "shopCategories": [
-        "name": "Leather Books",
-        "products": [
-          {
-          "name": "Brown Leather",
-          "image": "  ",
-          "shortDescription": "This is a brown Leather Book"
-          },
-          {
-          "name": "Red Leather",
-          "image": "",
-          "shortDescription": "This is a red Leather Book"
-          }
-        ]
+   "shops": [
+     {
+       "name": "Books",
+       "id": "",
+       "id": "book123",
+       "shopCategories": [
+         {
+           "name": "Cork Books",
+          "products": [
+            {
+            "name": "brown cork",
+            "image": "",
+            "shortDescription": "This is a brown Cork Book"
+            },
+            {
+            "name": "red cork",
+            "image": "",
+            "shortDescription": "This is a red Cork Book"
+            },
+            {
+            "name": "green cork",
+            "image": "",
+            "shortDescription": "This is a green Cork Book"
+            }
+          ]
+        },
+        {
+          "name": "Leather Books",
+          "products": [
+            {
+            "name": "Brown Leather",
+            "image": "",
+            "shortDescription": "This is a brown Leather Book"
+            },
+            {
+            "name": "Red Leather",
+            "image": "",
+            "shortDescription": "This is a red Leather Book"
+            }
+          ]
         },
         {
           "name": "Faberic Cover",
@@ -39,13 +61,14 @@
           ]
         }
       ]
-    },
-    {
-      "name": "Art",
-      "id": "art456",
-      "shopCategories": [
-        {
-          "name": "Paintings",
+     },
+     {
+       "name": "Art",
+       "id": "",
+       "id": "art456",
+       "shopCategories": [
+         {
+           "name": "Paintings",
           "products": [
             {
               "name": "Art Piece One",
@@ -75,13 +98,14 @@
           ]
         }
       ]
-    },
-    {
-      "name": "Music",
-      "id": "music789",
-      "shopCategories": [
-        {
-          "name": "Listen",
+     },
+     {
+       "name": "Music",
+       "id": "",
+       "id": "music789",
+       "shopCategories": [
+         {
+           "name": "Listen",
           "products": [
             {
               "name": "Classicals",
@@ -106,26 +130,6 @@
           ]  
         }
       ]
-    }
-  ],
-  "shopCategories": [
-    {
-      "name": "Cork Books",
-      "products": [
-        {
-        "name": "brown cork",
-        "image": "",
-        "shortDescription": "This is a brown Cork Book"
-        },
-        {
-        "name": "red cork",
-        "image": "",
-        "shortDescription": "This is a red Cork Book"
-        },
-        {
-        "name": "green cork",
-        "image": "k",
-        "shortDescription": "This is a green Cork Book"
     }
   ]
 }
