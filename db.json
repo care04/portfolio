@@ -4,16 +4,63 @@
        "name": "Books",
        "id": "book123",
        "shopCategories": [
-          {
-             "name": "Cork"
-          },
-          {
-             "name": "Leather"
-          },
-          {
-             "name": "Custom Design"
-          }
-      ]
+           {
+             "name": "Cork Books",
+              "id": "cork123",
+             "products": [
+               {
+               "name": "brown cork",
+               "image": "",
+               "shortDescription": "This is a brown Cork Book"
+               },
+               {
+               "name": "red cork",
+               "image": "",
+               "shortDescription": "This is a red Cork Book"
+               },
+               {
+               "name": "green cork",
+               "image": "",
+               "shortDescription": "This is a green Cork Book"
+               }
+             ]
+           },
+           {
+             "name": "Leather Books",
+             "products": [
+               {
+               "name": "Brown Leather",
+               "image": "",
+               "shortDescription": "This is a brown Leather Book"
+               },
+               {
+               "name": "Red Leather",
+               "image": "",
+               "shortDescription": "This is a red Leather Book"
+               }
+             ]
+           },
+           {
+             "name": "Faberic Cover",
+             "products": [
+               {
+               "name": "Faberic Printed On",
+               "image": "",
+               "shortDescription": "Books Made From Faberic with factory designed"
+               },
+               {
+               "name": "Faberic Hand Designed",
+               "image": "",
+               "shortDescription": "Books with self designed covers"
+               },
+               {
+                 "name": "Plain Covers",
+                 "image": "",
+                 "shortDescription": "books with covers such as jean ect."
+               }
+             ]
+           }
+        ]
      },
      {
        "name": "Art",
@@ -83,63 +130,5 @@
         }
       ]
     }
-  ],
-  "shopCategories": [
-     {
-       "name": "Cork Books",
-        "id": "cork123",
-       "products": [
-         {
-         "name": "brown cork",
-         "image": "",
-         "shortDescription": "This is a brown Cork Book"
-         },
-         {
-         "name": "red cork",
-         "image": "",
-         "shortDescription": "This is a red Cork Book"
-         },
-         {
-         "name": "green cork",
-         "image": "",
-         "shortDescription": "This is a green Cork Book"
-         }
-       ]
-     },
-     {
-       "name": "Leather Books",
-       "products": [
-         {
-         "name": "Brown Leather",
-         "image": "",
-         "shortDescription": "This is a brown Leather Book"
-         },
-         {
-         "name": "Red Leather",
-         "image": "",
-         "shortDescription": "This is a red Leather Book"
-         }
-       ]
-     },
-     {
-       "name": "Faberic Cover",
-       "products": [
-         {
-         "name": "Faberic Printed On",
-         "image": "",
-         "shortDescription": "Books Made From Faberic with factory designed"
-         },
-         {
-         "name": "Faberic Hand Designed",
-         "image": "",
-         "shortDescription": "Books with self designed covers"
-         },
-         {
-           "name": "Plain Covers",
-           "image": "",
-           "shortDescription": "books with covers such as jean ect."
-         }
-       ]
-     }
   ]
 }
