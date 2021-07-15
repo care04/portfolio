@@ -4,23 +4,19 @@
       "name": "Books",
       "id": "book123",
       "shopCategories": [
-        {
-        "shopCategories": [
-        
-          ],
-          "name": "Leather Books",
-          "products": [
-            {
-            "name": "Brown Leather",
-            "image": "  ",
-            "shortDescription": "This is a brown Leather Book"
-            },
-            {
-            "name": "Red Leather",
-            "image": "",
-            "shortDescription": "This is a red Leather Book"
-            }
-          ]
+        "name": "Leather Books",
+        "products": [
+          {
+          "name": "Brown Leather",
+          "image": "  ",
+          "shortDescription": "This is a brown Leather Book"
+          },
+          {
+          "name": "Red Leather",
+          "image": "",
+          "shortDescription": "This is a red Leather Book"
+          }
+        ]
         },
         {
           "name": "Faberic Cover",
