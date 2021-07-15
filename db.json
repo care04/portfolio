@@ -2,7 +2,6 @@
    "shops": [
      {
        "name": "Books",
-       "id": "",
        "id": "book123",
        "shopCategories": [
         
