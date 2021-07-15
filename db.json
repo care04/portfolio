@@ -76,9 +76,24 @@
           ]
         },
         {
-          "name": "Moon Blinked",
-          "image": "",
-          "shortDescription": "girl stearing at the moon"
+          "name": "pencil",
+          "products": [
+            {
+              "name": "kitten one",
+              "image": "",
+              "shortDescription": "kitten walking in grass"
+            }
+          ]
+        },
+        {
+          "name": "Digital",
+          "products": [
+            {
+            "name": "Moon Blinked",
+            "image": "",
+            "shortDescription": "girl Stearing at the moon"
+            }
+          ]
         }
       ]
     },
