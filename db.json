@@ -66,9 +66,14 @@
       "id": "",
       "shopCategories": [
         {
-          "name": "Art Piece One",
-          "image": "",
-          "shortDescription": "This is a small description of art piece one"
+          "name": "Paintings"
+          "products": [
+            {
+              "name": "Art Piece One",
+              "image": "",
+              "shortDescription": "This is a small description of art piece one"
+            }
+          ]
         },
         {
           "name": "Moon Blinked",
