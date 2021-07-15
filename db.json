@@ -2,9 +2,15 @@
   "shops": [
     {
       "name": "Books",
-      "id": "book123"
+      "id": "book123",
+      "shopCategories": [
+        
+          ]
         },
         {
+        "shopCategories": [
+        
+          ]
           "name": "Leather Books",
           "products": [
             {
