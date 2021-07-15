@@ -104,11 +104,7 @@
         {
           "name": "Listen",
           "products": [
-            {
-              "name": "Classicals",
-              "image": "",
-              "shortDescription": "recording of classical songs on a cd"
-            }
+            
           ]
         },
         {
