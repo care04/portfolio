@@ -80,6 +80,7 @@
   "shopCategories": [
      {
        "name": "Cork Books",
+        "id": "cork123",
        "products": [
          {
          "name": "brown cork",
