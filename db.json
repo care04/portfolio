@@ -25,9 +25,19 @@
           ]
         },
         {
-          "name": "Leather Book",
-          "image": "",
-          "shortDescription": "This is a handmade Leather Book"
+          "name": "Leather Books",
+          "products": [
+            {
+            "name": "Brown Leather",
+            "image": "",
+            "shortDescription": "This is a brown Leather Book"
+            },
+            {
+            "name": "Red Leather",
+            "image": "",
+            "shortDescription": "This is a red Leather Book"
+            }
+          ]
         },
         {
           "name": "Faberic Cover",
