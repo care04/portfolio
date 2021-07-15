@@ -128,9 +128,7 @@
         }
       ]
     }
-  ]
-},
-{
+  ],
   "shopCategories": [
       { 
         "shopId": "book123",
