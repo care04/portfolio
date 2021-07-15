@@ -15,6 +15,17 @@
           "shortDescription": ""
         }
       ]
+    },
+    {
+      "name": "Art",
+      "id": "",
+      "shopCategories": [
+        {
+          "name": "",
+          "image": "",
+          "shortDescription": ""
+        }
+      ]
     }
   ]
 }
