@@ -114,16 +114,6 @@
         {
           "name": "Books",
           "products": [
-            {
-              "name": "Original Pieces",
-              "image": "",
-              "shortDescription": "Sheet Music For some of my originals"
-            },
-            {
-              "name": "Triple T",
-              "image": "",
-              "shortDescription": "Tips Tricks andn Theory Book"
-            }
           ]
         }
       ]
