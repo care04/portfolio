@@ -5,14 +5,19 @@
       "id": "",
       "shopCategories": [
         {
-          "name": "",
+          "name": "Cork Book",
           "image": "",
-          "shortDescription": ""
+          "shortDescription": "This is a handmade Cork Book"
         },
         {
-          "name": "",
+          "name": "Leather Book",
           "image": "",
-          "shortDescription": ""
+          "shortDescription": "This is a handmade Leather Book"
+        },
+        {
+          "name": "Faberic Cover",
+          "image": "",
+          "shortDescription": "This is a handmade book with a faberic cover"
         }
       ]
     },
@@ -21,9 +26,35 @@
       "id": "",
       "shopCategories": [
         {
-          "name": "",
+          "name": "Art Piece One",
           "image": "",
-          "shortDescription": ""
+          "shortDescription": "This is a small description of art piece one"
+        },
+        {
+          "name": "Moon Blinked",
+          "image": "",
+          "shortDescription": "girl stearing at the moon"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "id": "",
+      "shopCategories": [
+        {
+          "name": "Classicals"
+          "image": "",
+          "shortDescription": "recording of classical songs on a cd"
+        },
+        {
+          "name": "Original Pieces",
+          "image": "",
+          "shortDescription": "Sheet Music For some of my originals"
+        },
+        {
+          "name": "Triple T",
+          "image": "",
+          "shortDescription": "Tips Tricks andn Theory Book"
         }
       ]
     }
